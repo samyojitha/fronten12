@@ -1,0 +1,14 @@
+.main1{
+ font-size:xx-large;
+ font-family:Verdana, Geneva, Tahoma, sans-serif;
+ background: burlywood;
+ 
+}
+.link2 {
+    text-align:right;
+}
+#text1{
+    text-decoration:underline;
+    border-style:solid;
+    padding:10px;
+}
